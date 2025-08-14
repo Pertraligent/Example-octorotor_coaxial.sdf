@@ -1,0 +1,1 @@
+# Example-octorotor_coaxial.sdf
